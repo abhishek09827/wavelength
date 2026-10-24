@@ -1,0 +1,14 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="28" fill="#09090B" />
+  <defs>
+    <linearGradient id="waveGrad" x1="20" y1="20" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6" />
+      <stop offset="0.5" stop-color="#EC4899" />
+      <stop offset="1" stop-color="#06B6D4" />
+    </linearGradient>
+  </defs>
+  <!-- Subtle Frequency Wave in Background -->
+  <path d="M16 65 C 32 40, 48 90, 64 65 C 80 40, 92 75, 104 60" stroke="#27272A" stroke-width="5" stroke-linecap="round" />
+  <!-- Iconic Lambda (λ) Glyph -->
+  <path d="M38 28 L52 28 L86 92 L70 92 L58 68 L44 92 L28 92 L51 54 L38 28 Z" fill="url(#waveGrad)" />
+</svg>
